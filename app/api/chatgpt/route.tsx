@@ -6,7 +6,7 @@ import { Pool } from 'pg';
 
 
 const openai = new OpenAI({
-    baseURL: process.env.OPENAI_API_BASE_URL,
+    // baseURL: process.env.OPENAI_API_BASE_URL,
     apiKey: process.env.OPENAI_API_KEY,
 });
 
