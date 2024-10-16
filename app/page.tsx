@@ -33,7 +33,7 @@ const examples = [
     case language
     when "en"
       puts "英語"
-    when "jn"
+    when "ja"
       puts "日本語"
     when "other"
       puts "その他の言語"
